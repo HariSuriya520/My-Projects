@@ -48,11 +48,11 @@
       Picture Portfolio
     </a>
     <span> | </span>
-    <a href="https://harisuriya520.github.io/Karpagam/">
+    <a href="https://harisuriya520.github.io/karpagam-Wep-App/DashBoard.html">
       Admin Panel
     </a>
     <span> | </span>
-    <a href="https://harisuriya520.github.io/KCE-Modules/">
+    <a href="https://harisuriya520.github.io/karpagam-Wep-App/">
       College WebApp modules
     </a>
     </a>
