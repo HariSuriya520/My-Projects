@@ -108,8 +108,8 @@
 
 ![image](https://drive.google.com/uc?export=view&id=1sYpSdlxiyIV2TbcXbEkDnoDUP3e0M2Wa)
 
-## Leader Classes (Internship Task)
-<p>Re-designing of an exsisting site.</p>
+## Leader Classes 
+<p>Re-designing of an exsisting site (Internship Task).</p>
 
 ![image](https://drive.google.com/uc?export=view&id=1NtoarJOvuQkp1MWKRSRZ8J-SiG8RgKVY)
 
